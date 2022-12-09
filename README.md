@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maria 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maria
 =======================================================================================================================================
 
 Data Analyst
@@ -6,12 +6,12 @@ Data Analyst
 
 I decided to change my career path a year and a half ago to Data Analysis and since then I have devoted myself to learning more. Since then I have successfully completed a course of Bussines Analitycs, a course for the whole introduction of SQL and 3 months ago I started very respectable and good reputation Associated degree for a Data Analyst in Ironhack.
 
-* 🌍  I'm based in The Netherlands
-* ✉️  You can contact me at [mimzdyyy@gmail.com](mailto:mimzdyyy@gmail.com)
-* 🚀  I'm currently working on [Data Mid Bootcamp Project Regression](http://github.com/ironhack-edu/data_mid_bootcamp_project_regression)
-* 🧠  I'm learning Logistic regression, Aggregations & Window functions, Subqueries & Nested subqueries, Correlated subqueries & Rolling Calculations, Aggregation Revisited - Subqueries
-* 🤝  I'm open to collaborating on Any projects that I might be interested at so I can learn more
-* ⚡  I am very interested in Video Game analysis, environmental and worlds predictions data
+* 🌍  I'm based in The Netherlands
+* ✉️  You can contact me at [mimzdyyy@gmail.com](mailto:mimzdyyy@gmail.com)
+* 🚀  I'm currently working on [Data Mid Bootcamp Project Regression](http://github.com/ironhack-edu/data_mid_bootcamp_project_regression)
+* 🧠  I'm learning Logistic regression, Aggregations & Window functions, Subqueries & Nested subqueries, Correlated subqueries & Rolling Calculations, Aggregation Revisited - Subqueries
+* 🤝  I'm open to collaborating on Any projects that I might be interested at so I can learn more
+* ⚡  I am very interested in Video Game analysis, environmental and worlds predictions data
 
 ### Skills
 
@@ -28,11 +28,9 @@ I decided to change my career path a year and a half ago to Data Analysis and si
 <a href="https://www.onflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flow-colored.svg" width="36" height="36" alt="Flow" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/6705" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mimzdyyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maria-dimitrova-993589166/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19930880/mimzdyyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/mimzdyyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -47,8 +45,8 @@ I decided to change my career path a year and a half ago to Data Analysis and si
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Mimzdyyy/Python-labs-IronMimi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimzdyyy&repo=Python-labs-IronMimi&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mimzdyyy/Projects-Ironhack" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimzdyyy&repo=Projects-Ironhack&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Mimzdyyy/Python-labs-IronMimi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimzdyyy&repo=Python-labs-IronMimi&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mimzdyyy/Water_Potability_Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimzdyyy&repo=Water_Potability_Project&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Mimzdyyy/SQL-labs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimzdyyy&repo=SQL-labs&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Mimzdyyy/SQL-labs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimzdyyy&repo=SQL-labs&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mimzdyyy/DS-job-market-analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimzdyyy&repo=DS-job-market-analysis&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
