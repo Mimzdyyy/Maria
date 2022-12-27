@@ -8,7 +8,7 @@ I decided to change my career path a year and a half ago to Data Analysis and si
 
 * 🌍  I'm based in The Netherlands
 * ✉️  You can contact me at [mimzdyyy@gmail.com](mailto:mimzdyyy@gmail.com)
-* 🚀  I'm currently working on [Analysing All Space Missions from 1957](https://github.com/Mimzdyyy/Analysing-All-Space-Missions-from-1957)
+* 🚀  I'm currently working on [Analysing All Space Missions from 1957](https://github.com/Mimzdyyy/Analysing-All-Space-Missions-from-1957) for my final most important Ironhack Project where I will use this dataset to show all I have learned - SQL, Python, Tableau and ML. Deadline 16th of January
 * 🧠  I'm learning Logistic regression, Aggregations & Window functions, Subqueries & Nested subqueries, Correlated subqueries & Rolling Calculations, Aggregation Revisited - Subqueries
 * 🤝  I'm open to collaborating on Any projects that I might be interested at so I can learn more
 * ⚡  I am very interested in Video Game analysis, environmental and worlds predictions data
